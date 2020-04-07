@@ -1,0 +1,3 @@
+# social_network
+
+social network app built with python and django including user authentications, permissions, admin and more...
