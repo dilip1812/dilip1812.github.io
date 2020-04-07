@@ -1,3 +1,8 @@
-# social_network
+# social_network_site_using_python_and_django
 
-social network app built with python and django including user authentications, permissions, admin and more...
+Social network app built with python and djang0.
+User login and user registration authenticate.
+Enter User Profile.
+user can add post.
+
+
