@@ -18,7 +18,7 @@ user can add post.
 > source myvirtualenv/bin/activate
 
 **clone social_network_site_project**
-> clone
+> git clone https://github.com/dilip1812/Social-network-Site-using-python-and-django-.git
 
 **install requiremnt file from requirement.txt**
 > pip install -r requirement.txt
@@ -28,5 +28,16 @@ user can add post.
 
 **run project on local server**
 > python manage.py runserver
+
+> open browser on http://127.0.0.1:8000/
+
+**To Login Admin interface we need to create superuser**
+> python manage.py createsuperuser
+  ADD DETAILS
+  
+> python manage.py runserver 
+
+> open browser on http://127.0.0.1:8000/admin/
+
 
 
