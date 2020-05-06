@@ -9,10 +9,12 @@ user can add post.
 
 ** First make one new Directory **
 > mkdir social_network_site_using_django
+
 > cd social_network_site_using_django
 
 ** make virtual env using venv **
 > python3 -m venv myvirtualenv
+
 > source myvirtualenv/bin/activate
 
 ** clone social_network_site_project **
